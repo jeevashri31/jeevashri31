@@ -61,13 +61,13 @@ Built during the Intel Unnati Summer Training. Exploratory data analysis on Indi
 
 ## 📊 GitHub stats
 
-![Jeevashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Jeevashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevashri31&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevashri31&layout=compact)
 
 ## 📫 Connect with me
 
 - 📧 Email: [jeevashridhinakaran@gmail.com](mailto:jeevashridhinakaran@gmail.com)
-- 💼 LinkedIn: [add your LinkedIn URL](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+
 
 ---
 ⭐ Thanks for visiting my profile!
